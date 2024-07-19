@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DamageTicket
+comment1.params=lvl\ dmgt
+comment1.target=DamageTicket(int,\ java.lang.String)
+comment2.params=lvl
+comment2.target=void\ setDmgLevel(int)
+comment3.params=dmgt
+comment3.target=void\ setDmgType(java.lang.String)
+comment4.params=
+comment4.target=int\ getDmgLevel()
+comment5.params=
+comment5.target=java.lang.String\ getDmgType()
+comment6.params=
+comment6.target=int\ getRepairStatus()
+comment7.params=customer
+comment7.target=void\ setCustomer(Customer)
+comment8.params=
+comment8.target=Customer\ getCustomer()
+comment9.params=newStat
+comment9.target=void\ updateStatus(int)
+numComments=10
